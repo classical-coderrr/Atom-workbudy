@@ -4,6 +4,8 @@
 
 <h1 align="center">OpenWorkBuddy</h1>
 
+<p align="center"><b>基于 OpenWorkBuddy 二次开发的本地 AI 工作空间</b></p>
+
 <p align="center">
  <b>跑在你自己电脑上的 AI 办公助理。</b><br>
  交代一句话，它自己规划、动手、验收，把 PPT / Word / Excel / 网页落到你硬盘上。<br>
